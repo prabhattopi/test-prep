@@ -12,7 +12,7 @@ A production-ready admin panel for creating, managing, and publishing MCQ-based 
 |---|---|
 | 🚀 **Deployed App** | https://test-prep-smoky.vercel.app/dashboard |
 | 📦 **GitHub Repo** | https://github.com/prabhattopi/test-prep |
-| 🎥 **Walkthrough Video** | [your-google-drive-link-here] |
+| 🎥 **Walkthrough Video** | https://drive.google.com/file/d/16zGkQow8Kf7F73qFESsniyRZRH57Qvza/view?usp=sharing |
 
 ---
 
