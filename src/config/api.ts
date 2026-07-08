@@ -1,7 +1,8 @@
 import axios from 'axios';
 import { useAuthStore } from '../store/useAuthStore';
 
-const BASE_URL = 'https://admin-moderator-backend-staging.up.railway.app/api';
+// Change this to a relative path
+const BASE_URL = '/api'; 
 
 export const apiClient = axios.create({
   baseURL: BASE_URL,
@@ -9,6 +10,7 @@ export const apiClient = axios.create({
     'Content-Type': 'application/json',
   },
 });
+
 
 apiClient.interceptors.request.use(
   (config) => {
